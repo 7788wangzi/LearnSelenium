@@ -1,0 +1,12 @@
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Demo\Demo\bin\Debug\WebDriver.dll
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Demo\Demo\bin\Debug\WebDriver.xml
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Demo\Demo\bin\Debug\WebDriver.Support.dll
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Demo\Demo\bin\Debug\WebDriver.Support.xml
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Demo\Demo\bin\Debug\XWebDriver.dll
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Demo\Demo\bin\Debug\XWebDriver.pdb
